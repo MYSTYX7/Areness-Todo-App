@@ -3,7 +3,7 @@
 This is a MERN (MongoDB, Express.js, React.js, Node.js) stack project for creating a simple TODO application. Users can perform CRUD (Create, Read, Update, Delete) operations on TODO items.
 
 ## Demo Link
-- Frontend Client - 
+- Frontend Client - https://areness-todo-app-client.onrender.com
 - Backend Server - https://areness-todo-app-server.onrender.com
 
 ## Folder Structure
