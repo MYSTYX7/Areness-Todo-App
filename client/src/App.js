@@ -1,6 +1,6 @@
 // app.js
 import { useEffect, useState } from "react";
-const serverURL = "http://localhost:8000";
+const serverURL = "https://areness-todo-app-server.onrender.com";
 
 function App() {
   const [todos, setTodos] = useState([]);
